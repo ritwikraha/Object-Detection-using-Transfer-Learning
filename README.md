@@ -1,2 +1,5 @@
 # Object-Detection-using-Transfer-Learning
-Using various pre-trained models for object detection and image classification
+- - - - 
+## Introduction
+- - - - 
+Using the resnet-50 model on the caltech101 image dataset to classify images and detect objects semantically.
